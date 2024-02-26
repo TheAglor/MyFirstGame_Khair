@@ -1,0 +1,14 @@
+
+Intermediate/CachedAssetRegistry.bin
+
+Saved/*
+
+Intermediate/*
+
+Plugins/*/Intermediate/*
+
+DerivedDataCache/*
+
+.vsconfig 
+
+*.sln
